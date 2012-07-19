@@ -7,7 +7,6 @@ A table view section index view with metro style.
 
 usage
 ------
-----------
 Add QuartzCore.framework to you project.
 
 Enable or disable section selection at a specific index:
